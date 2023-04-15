@@ -1,4 +1,4 @@
-# Python-Basics-to-Intermediate
+# Python - Basics to Intermediate
 
 This repository contains a collection of Python programs and exercises that cover the fundamentals of Python programming, including variables, data types, control structures, functions, modules, file I/O, and more. The programs and exercises in this repository are suitable for both beginners and intermediate-level learners.
 
